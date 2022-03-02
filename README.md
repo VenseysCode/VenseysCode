@@ -1,16 +1,18 @@
-### Hi there 👋
+### Čau!
 
-<!--
-**VenseysCode/VenseysCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Everybody always starts with what they do, I am not like others, so I am just gonna say that HTML and CSS aren't programming languages and studying electrical engineering is self-harming. Now - It's the right time to tell you, who the fuck I am and what you could find here, so I am just student from Czech Republic. (It's a small country in the middle of the Europe, it isn't jungle, desert or i don't know what you probably thought. Basically I'm studying electrical engineering so I know what I'm talking about when I told that my profession is self-harming. Also I'm interested in web development, programming and ethical hacking. 
+<br>
+<br>
+## What could you find here?
 
-Here are some ideas to get you started:
+Ye, exactly - nothing interesting just couple of my web templates, which are based on HTML & CSS & JS or React, probably you'll can find here something like Minecraft plugins, because I am the guy who likes doing custom-made plugins.<br>
+In case you could find here also something from my YouTube channel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where did I work, who did I work for, or what was I working on? 
+
+
+## Where can you find me?
+
+YouTube - Soon..
+Instagram - Soon..
+Twitter - Soon..
