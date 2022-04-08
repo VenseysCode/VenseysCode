@@ -1,4 +1,4 @@
-![Design and Development](htttps://github.com/VenseysCode/VenseysCode/blob/main/Banner.png/)
+![Design and Development](htttps://github.com/VenseysCode/VenseysCode/main/Banner.png/)
 
 # Hola!
 
