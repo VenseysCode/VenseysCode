@@ -11,24 +11,24 @@ In case you'll be able to find here also something from my YouTube channel.
 
 ## Favourite IDE
 
-• `HTML`, `CSS`, `JavaScript`, `React.js` - [Visual Studio Code](https://code.visualstudio.com/download) <br>
-• `Java` & `Minecraft Java` - [IntelliJ Idea Ultimate](https://www.jetbrains.com/idea/download/#section=windows) <br>
+❤️ • `HTML`, `CSS`, `JavaScript`, `React.js` - [Visual Studio Code](https://code.visualstudio.com/download) <br>
+🧡 • `Java` & `Minecraft Java` - [IntelliJ Idea Ultimate](https://www.jetbrains.com/idea/download/#section=windows) <br>
 
 ›> Currently learning - `PHP`, `MongoDB`, `Node.js`, `Next.js` 
 
 ## Where did I work, who did I work for, or what was I working on? 
 
-• `[Currently]` - ***Something's up.. Shh!*** <br>
-• `[2022 - 2022]` ***Lead Developer*** & ***Leader*** of [Mainverse.net](www.mainverse.net) <br>
-• `[2021 - 2022]` ***Leader*** of ***ActualLand.net*** 
+⚙️ • `[Currently]` - ***Something's up.. Shh!*** <br>
+⚙️ • `[2022 - 2022]` ***Lead Developer*** & ***Leader*** of [Mainverse.net](www.mainverse.net) <br>
+⚙️ • `[2021 - 2022]` ***Leader*** of ***ActualLand.net*** 
 
 ## Where can you find me?
 
-• `YouTube` - [VenseysCode](https://www.youtube.com/channel/UC_lLen-FFlIm3t3i3u5tfWA) <br>
-• `Instagram` - [@venseyscode](https://www.instagram.com/venseyscode/) <br>
-• `Twitter` - [@VenseysCode](https://twitter.com/VenseysCode) <br>
-• `TikTok` - [@VenseysCode](https://www.tiktok.com/@venseyscode) <br>
-• `FaceBook` - [VenseyCode](https://www.facebook.com/profile.php?id=100080006863609) <br>
-• `Twitch` - [VenseysCode](https://www.twitch.tv/venseyscode) <br>
-• `Websites` - [www.vensey.eu](www.vensey.eu) [Coming soon..]<br>
-• `Discord` - Vensey#4287
+🎬 • `YouTube` - [VenseysCode](https://www.youtube.com/channel/UC_lLen-FFlIm3t3i3u5tfWA) <br>
+📸 • `Instagram` - [@venseyscode](https://www.instagram.com/venseyscode/) <br>
+💡 • `Twitter` - [@VenseysCode](https://twitter.com/VenseysCode) <br>
+📷 • `TikTok` - [@VenseysCode](https://www.tiktok.com/@venseyscode) <br>
+🖥️ • `FaceBook` - [VenseyCode](https://www.facebook.com/profile.php?id=100080006863609) <br>
+📽️ • `Twitch` - [VenseysCode](https://www.twitch.tv/venseyscode) <br>
+📌 • `Websites` - [www.vensey.eu](www.vensey.eu) [Coming soon..]<br>
+💬 • `Discord` - Vensey#4287
